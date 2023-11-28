@@ -1,0 +1,15 @@
+month,transaction,qty
+Jan,Free Good In,200
+Jan,Sale,-134
+Feb,Sale,-84
+Mar,Sale,-18
+Apr,Free Good In,120
+Apr,Sale,-75
+May,Sale,-12
+May,Free Good In,50
+Jun,Sale,-297
+Jul,Free Good In,5
+Jul,Sale,-113
+Aug,Free Good In,25
+Sept,Free Good In,80
+Sept,Sale,-264
